@@ -137,7 +137,7 @@ synent-task3-todolist-ZandileNgwamba/
 
 ### Exit Application
 
-![Exit](Screenshots/exit.png)
+![Exit](Screenshots/Exit.png)
 
 ---
 
