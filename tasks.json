@@ -13,10 +13,10 @@
     },
     {
         "task": "Completed Task",
-        "completed": false
+        "completed": true
     },
     {
-        "task": "completed",
+        "task": "Zee",
         "completed": false
     }
 ]
