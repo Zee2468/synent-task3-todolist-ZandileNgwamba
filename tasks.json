@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Finish Synent Internship",
+        "completed": false
+    },
+    {
+        "task": "Finish Synent Task",
+        "completed": false
+    },
+    {
+        "task": "Push to GitHub",
+        "completed": true
+    },
+    {
+        "task": "Completed Task",
+        "completed": false
+    },
+    {
+        "task": "completed",
+        "completed": false
+    }
+]
